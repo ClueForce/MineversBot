@@ -1,2 +1,2 @@
 # MineversBot
-Minevers Network Bot Discord
+- [MyServer](https://discord.minevers-network.com)
