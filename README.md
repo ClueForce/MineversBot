@@ -41,4 +41,4 @@ Status Complete `0%`
 - [Github](https://github.com/ClueForce)
 - [Youtube](https://https://www.youtube.com/channel/UC0is6Sq_vH3M3tH3fo0Gd7A)
 - [Patreon](https://patreon.com/clueforce)
-- [License](https://github.com/ClueForce/MineversBot/blob/main/LICENSE)
+- [License](https://github.com/ClueForce/MineversBot/blob/master/LICENSE)
