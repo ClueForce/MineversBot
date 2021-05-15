@@ -1,1 +1,22 @@
-
+{
+  "name": "MineversBot",
+  "version": "0.5.6",
+  "description": "a Discord Bot for your Minecraft Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ClueeForcee",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^5.16.0",
+    "nodemon": "^1.19.4",
+    "prettier": "^1.19.1"
+  }
+}
