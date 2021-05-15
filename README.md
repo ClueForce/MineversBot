@@ -20,7 +20,7 @@ if You have any problem about this project, you can join my support server, i ca
 
 | Command   | Description                         | Usage                   | Status Command   |
 | --------- | ----------------------------------- | ----------------------- |----------------- |
-| !ip       | To get your server's IP address     | !ip                     | ❎               | 
+| !ip       | To get your server's IP address     | !ip                     | ❎ | 
 | !avatar   | To get your or your freinds avatar  | !gif labrador           |                  |
 | !gintama  | Replies with a random gintama gif   | !gintama                |                  |
 | !jojo     | Replies with a random jojo gif      | !jojo                   |                  | 
